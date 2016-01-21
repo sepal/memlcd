@@ -1,2 +1,3 @@
 # memlcd
-Python library for Sharps Memory LCDs
+
+Python library to write to [Sharps memory lcds](http://www.sharpmemorylcd.com/). 
